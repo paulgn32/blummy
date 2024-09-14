@@ -2,7 +2,7 @@
 # BLUM Crypto
 BLUM CRYPTO
 
-Register Here : [BlumCrypto](https://t.me/blum/app?startapp=ref_lHZLjPuq0F)
+Register Here : [Blum App](https://t.me/BlumCryptoBot)
 
 
 ## Features
